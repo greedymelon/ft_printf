@@ -1,7 +1,7 @@
-#**ft_printf**#
+# **ft_printf**
 School project 2
 
-##*Description*##
+## *Description*
 This function replicates the behavior of the actual printf with these conversions: cspdiuxX% plus wrong convertio, and any combination between width and these flags: -0.# +
 <br>There are two printf folders, one mimics the printf on Imac and the other one on Debian.
 
