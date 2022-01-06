@@ -55,7 +55,7 @@ ft_printf_print_utility.c
 
 OBJECTS = ${FILES:%.c=%.o}
 
-FILEBONUS = ft_printf_bonus.c 
+FILEBONUS =  
 
 OBJECTS_BONUS = ${FILEBONUS:%.c=%.o}
 
